@@ -14,7 +14,7 @@
 **First**, clone this repository.
 
 ```bash
-git clone http://github.com/pesima/vagrant-pesima.git
+git clone https://github.com/pesima/vagrant-pesima.git
 ```
 
 **Second** and run:
